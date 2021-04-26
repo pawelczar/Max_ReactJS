@@ -1,1 +1,1 @@
-# Max_ReactJS
+# Max_ReactJS_Course
